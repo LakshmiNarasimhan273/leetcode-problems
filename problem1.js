@@ -4,9 +4,9 @@
 // array = [2, 7, 11, 15], target = 9
 // Output = [0, 1]
 
-// Lakshmi Narasimhan [Code]
+// Lakshmi Narasimhan [CODE]
 
-var adding_function = function (array, target) {
+const adding_function = function (array, target) {
   // First for loop to check the first index
   for (let first_index = 0; first_index < array.length; first_index++) {
     // Second for loop to check the second index

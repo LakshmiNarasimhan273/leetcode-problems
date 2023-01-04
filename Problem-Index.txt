@@ -1,0 +1,24 @@
+                        Index of our Problem Folder
+
+-------------------------------------------------------------------------------------------
+         S.NO                       |               Problems                        
+-------------------------------------------------------------------------------------------
+        problem 1                   |             Finding the index             
+                                    |             of the Element in an Array
+                                    |     
+                                    |  
+        problem 2                   |             Adding the Two Arrays and get 
+                                    |             a single value                        
+                                    |
+                                    |               
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
+                                    |
