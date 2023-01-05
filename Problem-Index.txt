@@ -1,23 +1,23 @@
                         Index of our Problem Folder
 
 -------------------------------------------------------------------------------------------
-         S.NO                       |               Problems                        
+         S.NO                       |    Problems                         
 -------------------------------------------------------------------------------------------
-        problem 1                   |             Finding the index             
-                                    |             of the Element in an Array
-                                    |     
+        Problem 1   *               |    Finding the index             
+                                    |    of the Element in an Array
+                                    |    ( Status : Completed)
                                     |  
-        problem 2                   |             Adding the Two Arrays and get 
-                                    |             a single value                        
-                                    |
+        Problem 2  *                |     Adding the Two Arrays and get 
+                                    |     a single value                        
+                                    |     ( Status : Completed)
                                     |               
                                     |
+        Problem 3                   |     Captialize a camelCased String
+                                    |     ( Status : Not Completed)
                                     |
                                     |
-                                    |
-                                    |
-                                    |
-                                    |
+        Problem 4 *                 |     Finding the Duplicate element in an array 
+                                    |     (Status : Not Completed)
                                     |
                                     |
                                     |
