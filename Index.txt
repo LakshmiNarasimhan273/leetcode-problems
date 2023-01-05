@@ -1,0 +1,4 @@
+Problem 1 - Find the indices of two number in an array
+Problem 2 - Adding the Two Array and getting the output of Single value
+Problem 3 - Captiallize a camelCase string
+Problem 4 - Find the Duplicate element in an Array
