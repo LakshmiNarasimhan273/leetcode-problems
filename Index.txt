@@ -4,3 +4,5 @@ Problem 3 - Capitalize a camelCase string
 Problem 4 - Find the Duplicate element in an Array
 Problem 5 - Palindrome Program
 Problem 6 - Number or String Reverser
+Problem 7 - Longest substring without repeating characters
+Problem 8 - Zig-zag Conversion
