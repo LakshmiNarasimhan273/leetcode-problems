@@ -20,12 +20,12 @@ const palindrome_function = function (string) {
 };
 
 const string = "malayalam";
+console.log(palindrome_function(string));
 // Output
 // It's a Palindrome
 // ------------------------------------------
 // const string = "javascript";
 // Output
 // Not a Palindrome
-console.log(palindrome_function(string));
 
 // The two string outputs are been complied
