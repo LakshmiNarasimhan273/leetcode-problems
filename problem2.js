@@ -33,10 +33,3 @@ const adding_array_function = function (array1, array2) {
 };
 
 console.log(adding_array_function(array1, array2));
-
-// Output
-// Merged Array
-// [ 3, 5, 2, 7, 2, 1 ]
-// ------------------------------
-// Final Output here
-// 20

@@ -18,6 +18,7 @@ const adding_function = function (array, target) {
       // With this condition section we cannot use the Operator to check
       // this condition .
       if (array[first_index] + array[second_index] === target) {
+        // returns the first & second index which find in the loop
         return [first_index, second_index];
       }
     }
