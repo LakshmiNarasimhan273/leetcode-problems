@@ -26,7 +26,7 @@ const adding_function = function (array, target) {
 };
 
 var array = [2, 7, 11, 15],
-  target = 9;
+  target = 18;
 console.log(adding_function(array, target));
 
 // Output has been verified [0, 1]

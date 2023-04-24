@@ -5,6 +5,11 @@ Problem 4 - Find the Duplicate element in an Array
 Problem 5 - Palindrome Program
 Problem 6 - Number or String Reverser
 Problem 7 - Longest substring without repeating characters
-Problem 8 - Zig-zag Conversion
-Problem 9 - Convert a string into integer
-Problem 10 - Regular Expression Matching
+Problem 8 - Function Currying
+---------------------------------------------------------------------------
+
+Sorting Algorithm
+
+Problem 9 - Bubble Sort
+Problem 10 - Merge Sort
+Problem 11 - Heap Sort
