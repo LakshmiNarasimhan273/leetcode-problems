@@ -45,6 +45,6 @@ const bubbleSortFunction = function (array) {
 };
 
 // Create a array variable
-const array = [7, 2, 5, 1, 6, 4, 3];
+const array = [7, 2, 5, 1, 8, 6, 4, 3];
 // Concole the program , console the function name and give the parameter
 console.log(bubbleSortFunction(array));
