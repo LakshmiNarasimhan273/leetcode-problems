@@ -1,21 +1,22 @@
-const main_function = function (array) {
-  let sorted_array = array.sort().slice();
+function bubbleSort(arr) {
+  const len = arr.length;
+  let swapped = false;
 
-  let duplicate_element = [];
-
-  for (
-    let checking_value = 0;
-    checking_value < sorted_array.length - 1;
-    checking_value++
-  ) {
-    if (sorted_array[checking_value + 1] === sorted_array[checking_value]) {
-      duplicate_element.push(sorted_array[checking_value]);
+  do {
+    swapped = false;
+    for (let i = 0; i < len - 1; i++) {
+      if (arr[i] > arr[i + 1]) {
+        const temp = arr[i];
+        arr[i] = arr[i + 1];
+        arr[i + 1] = temp;
+        swapped = true;
+      }
     }
-  }
+  } while (swapped);
 
-  return duplicate_element;
-};
-const array = [2, 6, 5, 7, 2, 4, 7, 6, 9, 8];
+  return arr;
+}
 
-console.log("Original Array", array);
-console.log("Duplicate element present in array", main_function(array));
+// Example usage:
+const arr = [5, 3, 8, 4, 2];
+console.log(bubbleSort(arr)); // Output: [2, 3, 4, 5, 8]

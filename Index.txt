@@ -6,6 +6,7 @@ Problem 5 - Palindrome Program
 Problem 6 - Number or String Reverser
 Problem 7 - Longest substring without repeating characters
 Problem 8 - Function Currying
+
 ---------------------------------------------------------------------------
 
 Sorting Algorithm
@@ -13,3 +14,7 @@ Sorting Algorithm
 Problem 9 - Bubble Sort
 Problem 10 - Merge Sort
 Problem 11 - Heap Sort
+Problem 12 - Insertion Sort
+Problem 13 - Quick Sort
+
+----------------------------------------------------------------------------
