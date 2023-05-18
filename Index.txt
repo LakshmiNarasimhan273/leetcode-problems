@@ -9,19 +9,24 @@ Problem 8 - Function Currying
 
 ---------------------------------------------------------------------------
 
+OOPS CONCEPTS
+
+Problem 9 - Encapsulation
+Problem 10 - Inheritance
+Problem 11 - Abstraction
+Problem 12 - Polymorphism
+
+--------------------------------------------------------------------------
+
 SORTING ALGORITHM
 
-Problem 9 - Bubble Sort
-Problem 10 - Merge Sort
-Problem 11 - Heap Sort
-Problem 12 - Insertion Sort
-Problem 13 - Quick Sort
+Problem 13 - Bubble Sort
+Problem 14 - Merge Sort
+Problem 15 - Heap Sort
+Problem 16 - Binary Search
+Problem 17 - Divide & Conquer
+Problem 18 - Greedy Algorithm
+Problem 19 - Dynamic Programming
 
 ----------------------------------------------------------------------------
 
-OOPS CONCEPTS
-
-Problem 14 - Encapsulation
-Problem 15 - Inheritance
-Problem 16 - Abstraction
-Problem 17 - Polymorphism
