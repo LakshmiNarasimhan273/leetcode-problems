@@ -9,7 +9,7 @@ Problem 8 - Function Currying
 
 ---------------------------------------------------------------------------
 
-Sorting Algorithm
+SORTING ALGORITHM
 
 Problem 9 - Bubble Sort
 Problem 10 - Merge Sort
@@ -18,3 +18,10 @@ Problem 12 - Insertion Sort
 Problem 13 - Quick Sort
 
 ----------------------------------------------------------------------------
+
+OOPS CONCEPTS
+
+Problem 14 - Encapsulation
+Problem 15 - Inheritance
+Problem 16 - Abstraction
+Problem 17 - Polymorphism
