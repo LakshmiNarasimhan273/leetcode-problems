@@ -20,6 +20,8 @@ const palindrome_function = function (string) {
 };
 
 const string = "malayalam";
+// console it :)
+
 console.log(palindrome_function(string));
 // Output
 // It's a Palindrome

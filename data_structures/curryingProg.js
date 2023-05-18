@@ -15,4 +15,6 @@ function zeroth_funciton(num1) {
   };
 }
 
+// console it :)
+
 console.log(zeroth_funciton(10)(10)(10));

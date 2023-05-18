@@ -24,6 +24,9 @@ const duplicate_function = function (array) {
 };
 
 var array = [1, 2, 3, 4, 2, 4, 5, 6];
+
+// console it :)
+
 console.log(
   "The duplicate Elements of the array is",
   duplicate_function(array)

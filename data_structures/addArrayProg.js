@@ -32,4 +32,6 @@ const adding_array_function = function (array1, array2) {
   return evaluate_function;
 };
 
+// console it :)
+
 console.log(adding_array_function(array1, array2));

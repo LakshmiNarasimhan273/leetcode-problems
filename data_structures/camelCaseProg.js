@@ -15,6 +15,8 @@ const replacer = string.replace(/([A-Z])/, " G");
 
 const output = replacer.charAt(0).toUpperCase() + replacer.slice(1);
 
+// console it :)
+
 console.log(output);
 
 // Output

@@ -39,5 +39,5 @@ const longest_of_subString = function (string) {
   //   Finally return the max_length variable
 };
 
-// Pass The string in the function parameters through the console
+// console it :)
 console.log(longest_of_subString("geekforgeeks"));

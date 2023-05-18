@@ -19,6 +19,8 @@ const reverse_function = function (string) {
   return output;
 };
 
+// console it :)
+
 console.log("Given string is javascript");
 console.log("The reversed string are");
 console.log(reverse_function("javascript"));

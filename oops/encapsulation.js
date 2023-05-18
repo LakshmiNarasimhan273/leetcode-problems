@@ -58,7 +58,7 @@ def.setLanguage("JAVASCRIPT");
 def.setFramework("NODE.JS");
 def.setSection("BACKEND");
 
-// Concole it
+// console it :)
 console.log(
   "The most popular language for multipurpose development is the " +
     def.getLanguage() +
