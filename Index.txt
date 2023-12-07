@@ -30,3 +30,11 @@ Problem 19 - Dynamic Programming
 
 ----------------------------------------------------------------------------
 
+ARRAY OF OBJECTS
+
+Problem 20 - Sorting an Array of object
+Problem 21 - Filtering an Array of object
+Problem 22 - Grouping an Array of object
+Problem 23 - Advanced level Program * Combined programs of these three  * 
+
+----------------------------------------------------------------------------
