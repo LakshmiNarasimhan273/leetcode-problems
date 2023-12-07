@@ -1,9 +1,6 @@
-// ARRAY OF OBJECTS
+// ARRAY OF OBJECTS - 1
 
-// SORTING AN ARRAY OF OBJECT BY TAKING THEIR KEY NAME
-
-// Given Array of object
-
+// SORTING AN ARRAY OF OBJECT
 const students = [
   { name: "Alice", score: 85 },
   { name: "Bob", score: 92 },
