@@ -1,4 +1,4 @@
-// ARRAY OF OBJECTS - 1
+// ARRAY OF OBJECTS
 
 // SORTING AN ARRAY OF OBJECT
 const students = [

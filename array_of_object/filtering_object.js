@@ -1,4 +1,4 @@
-// ARRAY OF OBJECT - 2
+// ARRAY OF OBJECT
 
 // FILTERING AN ARRAY OF OBJECT
 const products = [
