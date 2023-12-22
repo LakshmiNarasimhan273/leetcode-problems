@@ -27,24 +27,23 @@ const transactions = [
   },
 ];
 
-// Create a Function to group the array of object with the parameters of
-// arr that hold the transactions as a parameter value then using the reduce
-// method to take the each of the objects with in that the inner function holds
-// the acc (accumulator) & transaction the two parameters then split the category
-// and extract from our object then define the category into the acc or else it returns
-// the empty array finally push the acc[category] into the transactions and returns the acc
-function groupTransactionsByCategory(arr) {
-  return arr.reduce((acc, transaction) => {
-    const category = transaction.category;
-    acc[category] = acc[category] || [];
-    acc[category].push(transaction);
-    return acc;
-  }, {});
-}
+// Created a groupedTransactions variable and select the object variable then using an reduce
+// method to select the each object with the arguments of a & b -- in this case
+// b is directly contacted with the transactions and access their keys
+// secondly created a key variable and select the transaction category for using the
+// b the check the condition if the opposite of the a[key] then returns only an
+// empty array or else push a b of category into the a[key] finally returns a
 
-// create an variable and call back the funciton with in the function parameter
-// pass the original object into it
-const groupedTransactions = groupTransactionsByCategory(transactions);
+const groupedTransactions = transactions.reduce((a, b) => {
+  const key = b.category;
+
+  if (!a[key]) {
+    a[key] = [];
+  }
+
+  a[key].push(b);
+  return a;
+}, {});
 
 // Console it : )
 console.log("Grouped Transactions:", groupedTransactions);
