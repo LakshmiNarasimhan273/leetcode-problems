@@ -30,11 +30,12 @@ Problem 23 - Advanced level Program * Combined programs of these three  *
 SORTING ALGORITHM
 
 Problem 13 - Bubble Sort
-Problem 14 - Merge Sort *
-Problem 15 - Heap Sort *
-Problem 16 - Binary Search *
-Problem 17 - Divide & Conquer
-Problem 18 - Greedy Algorithm
-Problem 19 - Dynamic Programming
+Problem 14 - Merge Sort
+Problem 15 - Heap Sort 
+Problem 16 - Binary Search 
+Problem 17 - Linear Search ( OPT )
+Problem 18 - Divide & Conquer
+Problem 19 - Greedy Algorithm 
+Problem 20 - Dynamic Programming 
 
 ----------------------------------------------------------------------------
