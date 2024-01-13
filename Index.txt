@@ -11,10 +11,10 @@ Problem 8 - Function Currying *
 
 OOPS CONCEPTS
 
-Problem 9 - Encapsulation
-Problem 10 - Inheritance
-Problem 11 - Abstraction
-Problem 12 - Polymorphism
+Problem 9 - Encapsulation *
+Problem 10 - Inheritance *
+Problem 11 - Abstraction *
+Problem 12 - Polymorphism *
 
 ----------------------------------------------------------------------------
 
