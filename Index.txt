@@ -29,8 +29,8 @@ Problem 23 - Advanced level Program Combined programs of these three  *
 
 SORTING ALGORITHM
 
-Problem 13 - Bubble Sort 
-Problem 14 - Merge Sort
+Problem 13 - Bubble Sort *
+Problem 14 - Merge Sort *
 Problem 15 - Heap Sort 
 Problem 16 - Binary Search 
 Problem 17 - Linear Search ( OPT )
