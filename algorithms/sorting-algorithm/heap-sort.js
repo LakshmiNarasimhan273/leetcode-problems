@@ -58,6 +58,10 @@ function heapFunction(arr, arrayLength, initialValue) {
   }
 }
 
+// Intialize tha unsorted array
 const unSortedArray = [5, 2, 3, 1];
-heapSort(unSortedArray);
-console.log(unSortedArray);
+// Created a variable and call back the heapSort with arguments
+const sortedArray = heapSort(unSortedArray);
+
+// Let's make a console : )
+console.log(sortedArray);
