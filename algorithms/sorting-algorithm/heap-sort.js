@@ -29,22 +29,31 @@ function heapSort(arr) {
 // Function for split the array based on their condition to find the lowest elements
 function heapFunction(arr, arrayLength, initialValue) {
   let largestElement = initialValue;
+  // Left element variable with some intial conditions
   const leftElement = 2 * initialValue + 1;
   const rightElement = 2 * initialValue + 2;
 
+  // first condition for finding the left elements in an array
   if (leftElement < arrayLength && arr[leftElement] > arr[largestElement]) {
     largestElement = leftElement;
   }
 
+  // second condition for finding the right elements in an array
   if (rightElement < arrayLength && arr[rightElement] > arr[largestElement]) {
     largestElement = rightElement;
   }
 
+  // if the largestElement is not equal to their intialValue if it was true
   if (largestElement !== initialValue) {
+    // change the position of intialVale largestElement into
+    // largestElement and intialValue this is my condition
     [arr[initialValue], arr[largestElement]] = [
       arr[largestElement],
       arr[initialValue],
     ];
+    // callback a heapFunction with passing an argument
+    // of array, arrayLength and the largestElement
+
     heapFunction(arr, arrayLength, largestElement);
   }
 }
